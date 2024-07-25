@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Siv Sovanpanhavorn</h1>
-<h3 align="center">A passionate Mobile and front app developer from Cambodia</h3>
+<h3 align="center">A Passionate Mobile and front App developer from Cambodia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vorn-dev-ni&label=Profile%20views&color=0e75b6&style=flat" alt="vorn-dev-ni" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vorn-dev-ni" alt="vorn-dev-ni" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter and React Native**
+- 🌱 I’m currently improving with **Flutter and React Native**
 
 - 👨‍💻 All of my projects are available at [https://main--panhavorn-portfolio.netlify.app/](https://main--panhavorn-portfolio.netlify.app/)
 
-- 💬 Ask me about **React, React Native and Node**
+- 💬 Ask me about **Flutter React Native, React and Express**
 
 - 📫 How to reach me **Nightpp19@gmail.com**
 
