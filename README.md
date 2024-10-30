@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siv Sovanpanhavorn</h1>
-<h3 align="center">A Passionate Mobile and front App developer from Cambodia</h3>
+<h3 align="center">A Passionate Mobile and front App developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vorn-dev-ni&label=Profile%20views&color=0e75b6&style=flat" alt="vorn-dev-ni" /> </p>
 
